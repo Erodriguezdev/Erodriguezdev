@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Erodriguezdev
-- 👀 I’m interested in Go, C# , Vuejs, Javascript
+- 👀 I’m interested in Go, C# , Vuejs, Javascript, flutter, netcore
 - 🌱 I’m currently learning Go
 - 📫 How to reach me in instragram - @ezequiel.rd.rock
