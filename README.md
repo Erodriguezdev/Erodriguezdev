@@ -41,7 +41,7 @@ Bilingual Computer Engineer with over 5 years of experience leading digital tran
 * Handled financial processes, credit analysis, and portfolio management within the banking sector.
 
 ## TECHNICAL STACK
-* Backend: .NET 7/8, C#, ASP.NET Web API, Entity Framework, SQL Server, Hangfire.
+* Backend: .NET 7/8/10, C#, ASP.NET Web API, Entity Framework, SQL Server, Hangfire.
 * Frontend: Vue.js 2/3, TypeScript, Vuetify, Tailwind CSS, JavaScript (ES6+).
 * Tools & DevOps: Git, Azure AD / MSAL, API Management, Ngrok, Scrum.
 
