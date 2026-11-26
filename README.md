@@ -115,7 +115,6 @@ I'm a bilingual Computer Engineer with **5+ years** of experience leading digita
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Erodriguezdev&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=transparent" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erodriguezdev&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
 
 </div>
