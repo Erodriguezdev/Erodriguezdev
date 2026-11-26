@@ -111,8 +111,12 @@ I'm a bilingual Computer Engineer with **5+ years** of experience leading digita
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=Erodriguezdev&hide_border=true&background=00000000&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub contributions and streak" />
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Erodriguezdev&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=transparent" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erodriguezdev&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erodriguezdev&layout=compact&hide_border=true" alt="Top languages" />
 
 </div>
 
