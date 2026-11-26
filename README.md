@@ -6,10 +6,10 @@
 
 I build scalable software for **Healthcare, Finance, and Education**, and I lead the teams that ship it.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ing--ezequiel--rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ing-ezequiel-rodriguez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ing--ezequiel--rodriguez-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/ing-ezequiel-rodriguez)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielrodriguezsantos@gmail.com)
-![Location](https://img.shields.io/badge/Santo%20Domingo%2C%20DR-GMT--4%20%7C%20EST--compatible-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Languages](https://img.shields.io/badge/Spanish%20%26%20English-Bilingual-6A1B9A?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Location](https://img.shields.io/badge/Santo%20Domingo%2C%20DR-GMT--4%20%7C%20EST--compatible-2E7D32?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyYTcgNyAwIDAgMC03IDdjMCA1LjI1IDcgMTMgNyAxM3M3LTcuNzUgNy0xM2E3IDcgMCAwIDAtNy03em0wIDkuNWEyLjUgMi41IDAgMSAxIDAtNSAyLjUgMi41IDAgMCAxIDAgNXoiLz48L3N2Zz4%3D)
+![Languages](https://img.shields.io/badge/Spanish%20%26%20English-Bilingual-6A1B9A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDAgMjAgMTAgMTAgMCAwIDAgMC0yMHptNi45MyA2aC0yLjk1YTE1LjcgMTUuNyAwIDAgMC0xLjM4LTMuNTZBOC4wMyA4LjAzIDAgMCAxIDE4LjkzIDh6TTEyIDQuMDRjLjgzIDEuMiAxLjQ4IDIuNTMgMS45MSAzLjk2aC0zLjgyYy40My0xLjQzIDEuMDgtMi43NiAxLjkxLTMuOTZ6TTQuMjYgMTRhOC4yIDguMiAwIDAgMSAwLTRoMy4zOGExNi41IDE2LjUgMCAwIDAgMCA0SDQuMjZ6bS44MSAyaDIuOTVjLjMyIDEuMjUuNzggMi40NSAxLjM4IDMuNTZBNy45OSA3Ljk5IDAgMCAxIDUuMDcgMTZ6bTIuOTUtOEg1LjA3YTcuOTkgNy45OSAwIDAgMSA0LjMzLTMuNTZBMTUuNyAxNS43IDAgMCAwIDguMDIgOHpNMTIgMTkuOTZBMTQuMSAxNC4xIDAgMCAxIDEwLjA5IDE2aDMuODJBMTQuMSAxNC4xIDAgMCAxIDEyIDE5Ljk2ek0xNC4zNCAxNEg5LjY2YTE0LjcgMTQuNyAwIDAgMSAwLTRoNC42OGExNC43IDE0LjcgMCAwIDEgMCA0em0uMjYgNS41NmMuNi0xLjExIDEuMDYtMi4zMSAxLjM4LTMuNTZoMi45NWE4LjAzIDguMDMgMCAwIDEtNC4zMyAzLjU2ek0xNi4zNiAxNGExNi41IDE2LjUgMCAwIDAgMC00aDMuMzhhOC4yIDguMiAwIDAgMSAwIDRoLTMuMzh6Ii8%2BPC9zdmc%2B)
 
 </div>
 
@@ -30,16 +30,16 @@ I'm a bilingual Computer Engineer with **5+ years** of experience leading digita
 
 **Backend**
 
-![.NET](https://img.shields.io/badge/.NET%207%2F8%2F10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%207%2F8%2F10-512BD4?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=flat-square)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
 ![Hangfire](https://img.shields.io/badge/Hangfire-1E88E5?style=flat-square)
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js%202%2F3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js%202%2F3-4FC08D?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
@@ -47,8 +47,8 @@ I'm a bilingual Computer Engineer with **5+ years** of experience leading digita
 
 **Cloud, Tools & Practices**
 
-![Azure AD](https://img.shields.io/badge/Azure%20AD%20%2F%20MSAL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![API Management](https://img.shields.io/badge/Azure%20API%20Management-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure%20AD%20%2F%20MSAL-0078D4?style=flat-square)
+![API Management](https://img.shields.io/badge/Azure%20API%20Management-0078D4?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum%20%2F%20Agile-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
